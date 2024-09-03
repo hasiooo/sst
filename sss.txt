@@ -1,0 +1,2 @@
+
+curl -sSf https://flussonic.com/public/install.sh | sh
